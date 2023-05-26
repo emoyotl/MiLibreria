@@ -1,2 +1,2 @@
 # Polinom
-Librería para resolver algún problema
+Librería para trabajar con polinomios.
